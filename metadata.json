@@ -1,6 +1,13 @@
 {
-  "name": "Nata-Coin",
-  "symbol": "NAC",
-  "description": "First Token",
-  "image": "https://github.com/saidubundukamara/solana_meta_data/blob/main/nata.jpg"
+  "name": "Nata",
+  "symbol": "NATA",
+  "image": "https://github.com/saidubundukamara/solana_meta_data/blob/main/nata.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/saidubundukamara/solana_meta_data/blob/main/nata.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
 }
