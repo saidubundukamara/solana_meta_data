@@ -1,13 +1,6 @@
 {
-  "name": "Nata",
-  "symbol": "NATA",
-  "image": "https://github.com/saidubundukamara/solana_meta_data/blob/main/nata.jpg",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://github.com/saidubundukamara/solana_meta_data/blob/main/nata.jpg",
-        "type": "image/png"
-      }
-    ]
-  }
+    "name": "Olawale dev",
+    "symbol": "OLAWALE",
+    "description": "Solana here I come",
+    "image": "https://arweave.net/RvBACA0mVmmcKq2Oj2A-m7AT619WYCJ7jdZ-dVKB9Hk"
 }
